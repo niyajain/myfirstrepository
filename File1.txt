@@ -1,9 +1,10 @@
 Welcome to git
 This is a demo to git
 
-change1
+change - 1
+ 
+change - 2
+ 
+change - 3 
 
-change2
-
-change3
-
+reset(removes everything) vs revret(recommended)
